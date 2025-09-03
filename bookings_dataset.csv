@@ -1,0 +1,71 @@
+customer_id,customer_name,customer_city,hotel_id,hotel_name,hotel_city,booking_date,nights,price_per_night,total_amount
+C001,Neha,Bangalore,H03,Hotel Grand,Mumbai,2023-05-26,2,6329,12658
+C002,Neha,Bangalore,H01,Hotel Grand,Delhi,2023-11-29,5,4568,22840
+C003,Amit,Hyderabad,H03,Sunshine Inn,Chennai,2023-08-18,5,5809,29045
+C004,Sunil,Pune,H01,Sunshine Inn,Chennai,2023-03-07,4,4086,16344
+C005,Manoj,Mumbai,H03,Sunshine Inn,Pune,2023-08-12,1,2136,2136
+C006,Ravi,Pune,H05,Sunshine Inn,Delhi,2023-11-02,1,6470,6470
+C007,Kiran,Chennai,H02,City Palace,Delhi,2023-09-08,6,2676,16056
+C008,Amit,Hyderabad,H01,City Palace,Bangalore,2023-11-08,2,7001,14002
+C009,Anita,Pune,H05,Sunshine Inn,Mumbai,2023-11-12,5,7963,39815
+C010,Sunil,Delhi,H05,Sunshine Inn,Mumbai,2023-04-07,6,5646,33876
+C011,Kiran,Hyderabad,H05,Comfort Suites,Kolkata,2023-06-15,1,7275,7275
+C012,Kiran,Chennai,H06,Sea View Resort,Chennai,2023-05-30,2,7657,15314
+C013,Neha,Hyderabad,H04,Sea View Resort,Kolkata,2023-10-14,4,2388,9552
+C014,Priya,Bangalore,H04,Sea View Resort,Chennai,2023-04-12,6,6307,37842
+C015,Anita,Hyderabad,H04,Comfort Suites,Delhi,2023-08-18,5,6503,32515
+C016,Anita,Mumbai,H06,Hotel Grand,Mumbai,2023-09-07,3,5099,15297
+C017,Kiran,Mumbai,H03,City Palace,Delhi,2023-12-17,7,5223,36561
+C018,Neha,Pune,H03,Royal Stay,Delhi,2023-09-23,2,6791,13582
+C019,Sneha,Bangalore,H05,Royal Stay,Hyderabad,2023-12-02,4,2052,8208
+C020,Sneha,Chennai,H02,Comfort Suites,Pune,2023-05-01,2,3131,6262
+C021,Amit,Chennai,H04,Royal Stay,Kolkata,2023-06-29,1,7285,7285
+C022,Amit,Bangalore,H02,Comfort Suites,Kolkata,2023-12-31,6,7735,46410
+C023,Anita,Chennai,H06,Hotel Grand,Pune,2023-05-27,7,4764,33348
+C024,Kiran,Hyderabad,H03,Hotel Grand,Delhi,2023-07-24,4,2230,8920
+C025,Sneha,Bangalore,H01,Comfort Suites,Delhi,2023-10-27,6,7940,47640
+C026,Manoj,Delhi,H03,Hotel Grand,Delhi,2023-07-09,2,2982,5964
+C027,Priya,Delhi,H05,Sunshine Inn,Mumbai,2023-04-25,7,6133,42931
+C028,Priya,Hyderabad,H05,Hotel Grand,Bangalore,2023-03-22,4,6068,24272
+C029,Ravi,Mumbai,H03,City Palace,Mumbai,2023-07-21,7,4946,34622
+C030,Manoj,Pune,H02,Comfort Suites,Kolkata,2023-03-20,7,4138,28966
+C031,Priya,Kolkata,H06,City Palace,Chennai,2023-09-10,1,7428,7428
+C032,Neha,Kolkata,H03,Royal Stay,Mumbai,2023-12-10,3,4984,14952
+C033,Ravi,Chennai,H01,Royal Stay,Bangalore,2023-04-11,3,5625,16875
+C034,Priya,Hyderabad,H01,City Palace,Pune,2023-06-16,6,4840,29040
+C035,Manoj,Kolkata,H04,City Palace,Delhi,2023-01-25,5,5336,26680
+C036,Priya,Mumbai,H02,Hotel Grand,Bangalore,2023-11-05,2,4536,9072
+C037,Amit,Pune,H03,Comfort Suites,Chennai,2023-10-13,3,6070,18210
+C038,Manoj,Hyderabad,H04,Sea View Resort,Bangalore,2023-11-28,5,3404,17020
+C039,Neha,Hyderabad,H06,City Palace,Delhi,2023-10-08,5,6059,30295
+C040,Amit,Delhi,H02,City Palace,Mumbai,2023-10-16,7,4546,31822
+C041,Kiran,Kolkata,H06,Royal Stay,Hyderabad,2023-06-26,1,5105,5105
+C042,Neha,Bangalore,H05,Sea View Resort,Mumbai,2023-12-28,2,4702,9404
+C043,Sneha,Pune,H06,City Palace,Delhi,2023-11-10,1,3645,3645
+C044,Rohit,Delhi,H06,Sunshine Inn,Hyderabad,2023-10-25,7,6025,42175
+C045,Amit,Bangalore,H03,Comfort Suites,Kolkata,2023-10-01,4,2451,9804
+C046,Ravi,Delhi,H01,Hotel Grand,Delhi,2023-03-12,1,2978,2978
+C047,Ravi,Delhi,H01,Sunshine Inn,Delhi,2023-02-14,7,4573,32011
+C048,Sneha,Kolkata,H05,Royal Stay,Kolkata,2023-01-14,5,6956,34780
+C049,Ravi,Chennai,H05,Hotel Grand,Kolkata,2023-10-21,1,7794,7794
+C050,Manoj,Delhi,H04,City Palace,Mumbai,2023-04-22,4,4077,16308
+C051,Amit,Bangalore,H02,Hotel Grand,Mumbai,2023-08-10,6,7317,43902
+C052,Anita,Pune,H01,Hotel Grand,Kolkata,2023-08-22,3,5207,15621
+C053,Sneha,Kolkata,H06,Royal Stay,Delhi,2023-09-16,6,3762,22572
+C054,Rohit,Bangalore,H06,Royal Stay,Mumbai,2023-10-24,1,2694,2694
+C055,Manoj,Chennai,H06,Royal Stay,Mumbai,2023-06-24,6,5695,34170
+C056,Manoj,Chennai,H05,City Palace,Chennai,2023-09-10,6,3183,19098
+C057,Ravi,Mumbai,H06,Comfort Suites,Chennai,2023-05-17,1,6093,6093
+C058,Amit,Delhi,H03,Sea View Resort,Hyderabad,2023-11-03,2,7220,14440
+C059,Manoj,Chennai,H02,Sea View Resort,Bangalore,2023-11-02,3,7951,23853
+C060,Priya,Hyderabad,H06,Hotel Grand,Kolkata,2023-03-13,2,7414,14828
+C061,Priya,Kolkata,H01,Hotel Grand,Pune,2023-01-01,5,6290,31450
+C062,Manoj,Chennai,H03,Hotel Grand,Mumbai,2023-03-28,5,6919,34595
+C063,Rohit,Pune,H04,Comfort Suites,Kolkata,2023-11-07,2,4049,8098
+C064,Kiran,Pune,H04,Sea View Resort,Bangalore,2023-04-26,7,7886,55202
+C065,Ravi,Chennai,H02,Hotel Grand,Pune,2023-10-30,6,7964,47784
+C066,Sunil,Chennai,H01,Sunshine Inn,Pune,2023-03-11,3,3537,10611
+C067,Amit,Delhi,H02,Comfort Suites,Kolkata,2023-05-01,1,2713,2713
+C068,Anita,Bangalore,H03,Sunshine Inn,Chennai,2023-12-16,1,5238,5238
+C069,Kiran,Bangalore,H03,Sunshine Inn,Delhi,2023-03-17,5,3136,15680
+C070,Sunil,Mumbai,H06,Sunshine Inn,Pune,2023-05-05,7,2195,15365
